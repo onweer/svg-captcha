@@ -1,5 +1,5 @@
 {
-  "name": "egg-egg-svg-captcha",
+  "name": "egg-svg-captcha",
   "version": "1.0.0",
   "description": "egg svg-captcha plugin",
   "eggPlugin": {
