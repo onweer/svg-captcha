@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-egg-svg-captcha.git"
+    "url": "git+https://github.com/onweer/svg-captcha.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/onweer/svg-captcha/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-egg-svg-captcha#readme",
+  "homepage": "https://github.com/onweer/svg-captcha#readme",
   "author": "onweer",
   "license": "MIT"
 }

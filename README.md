@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-egg-svg-captcha --save
+$ npm i egg-svg-captcha --save
 ```
 
 ## Usage
